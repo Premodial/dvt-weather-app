@@ -1,0 +1,18 @@
+{
+    "weather": "Weather",
+    "favorites": "Favorites",
+    "map": "Map",
+    "lastUpdate": "Last update",
+    "live": "Live Updates",
+    "details": "Details",
+    "min": "min",
+    "current": "current",
+    "max": "max",
+    "locationPermissionDenied": "Permission to access location was denied",
+    "granted": "Granted",
+    "directions": "Directions",
+    "call": "Call",
+    "website": "Website",
+    "view": "View",
+    "search": "Search"
+  }

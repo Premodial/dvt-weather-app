@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695163029853" clover="3.2.0">
+  <project timestamp="1695163029853" name="All files">
+    <metrics statements="29" coveredstatements="29" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6" elements="39" coveredelements="38" complexity="0" loc="29" ncloc="29" packages="3" files="3" classes="3"/>
+    <package name="app">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="i18n.ts" path="/Users/premodial/Desktop/Projects/weather/app/app/i18n.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.constants">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/premodial/Desktop/Projects/weather/app/app/constants/index.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.screens.views">
+      <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6"/>
+      <file name="details.tsx" path="/Users/premodial/Desktop/Projects/weather/app/app/screens/views/details.tsx">
+        <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="27" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

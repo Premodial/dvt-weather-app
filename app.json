@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+        }
+      ],
+      "@react-native-google-signin/google-signin",
+      "expo-localization"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.weather.app",
+      "buildNumber": "0.0.1",
+      "infoPlist": {
+        "CFBundleURLTypes": [
+          {
+            "CFBundleURLSchemes": [
+              "com.googleusercontent.apps.744325746100-ml8f7tf1qt85b5gngreruoon257cjqco"
+            ]
+          }
+        ]
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.weather.app",
+      "versionCode": 1
+    },
+    "name": "SkySpy",
+    "slug": "SkySpy"
+  }
+}

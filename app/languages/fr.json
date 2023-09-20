@@ -1,0 +1,17 @@
+{
+  "weather": "Météo",
+  "favorites": "Favoris",
+  "map": "Carte",
+  "lastUpdate": "Dernière mise à jour",
+  "live": "Mises à jour en direct",
+  "details": "Détails",
+  "min": "min",
+  "current": "actuel",
+  "max": "max",
+  "locationPermissionDenied": "L'autorisation d'accéder à l'emplacement a été refusée",
+  "granted": "Accordé",
+  "directions": "Directions",
+  "call": "Appeler",
+  "website": "Site web",
+  "search": "Recherche"
+}
